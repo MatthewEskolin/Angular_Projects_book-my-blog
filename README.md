@@ -12,6 +12,8 @@ Scully static server - localhost:1668
 
 I can see the static content on 1668, but when I try to access a page on 1864 I get a 404...
 
+09/07/2021 - rename master to main
+
 
 ## Development server
 
